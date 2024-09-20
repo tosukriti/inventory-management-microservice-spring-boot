@@ -1,1 +1,1 @@
-# inventory-management-microservice-spring-boot
+# Inventory Management Microservice in Spring Boot
